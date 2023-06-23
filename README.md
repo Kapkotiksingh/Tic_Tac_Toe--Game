@@ -60,7 +60,7 @@ Enter a position (1-9): 6
 -------------
 | O | X | O |
 -------------
-|   |   | X  |
+| 0 | X | X  |
 -------------
 Player X turn:
 Enter a position (1-9): 7
